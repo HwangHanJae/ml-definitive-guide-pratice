@@ -11,7 +11,7 @@
 ## 머신러닝 알고리즘(분류)
 - 나이브 베이즈(Naive Bayes) : 베이즈(Bayes)통계와 생성 모델에 기반 
 - 로지스틱회귀(Logistic Regression) : 독립변수와 종속변수의 선형 관계성에 기반
-- [결정 트리(Decision Tree)]() : 데이터 균일도에 따른 규칙 기반
+- [결정 트리(Decision Tree)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/82204d9b092fb377376b4ec948d6e97fd830997c/classification/decision_tree.ipynb) : 데이터 균일도에 따른 규칙 기반
 - 서포트 벡터 머신(Surpport Vector Machine) : 개별 클래스 간의 최대 분류 마진을 효과적으로 찾아줌
 - 최소 근접(Nearest Neighbor) 알고리즘 : 근접 거리를 기준
 - 신경망(Neural Network) : 심층 연결 기반
