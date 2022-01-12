@@ -9,7 +9,7 @@
   - XGBoost
   - LightGBM
 ### 전통적인 앙상블 학습
-- [보팅(Voting)]()
+- [보팅(Voting)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/97270c41b1677b949f732d50d6323e1eeb82fd7e/classification/voting_learning.ipynb)
   - 여러개의 서로 다른 모델이 투표를 통해 최종 예측을 결정
 - 배깅(Bagging)
   - 여러개의 서로 같은 유형의 모델이 결합하지만 데이터 샘플링을 서로 다르게 가져가면서 보팅을 수행
