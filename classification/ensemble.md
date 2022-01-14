@@ -3,7 +3,7 @@
 - 어려운 문제의 결론을 내기 위하여 여러 명의 전문가의 의견을 수렴하는 것
 - 다양한 모델의 예측 결과를 결함하여 단일 모델보다 더 신뢰성이 높은 예측값을 얻는 것
 ### 대표적인 앙상블 모델
-- 랜덤포레스트(RandomForest)
+- [랜덤포레스트(RandomForest)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/ff15332588af20b3ff782e6ee1ca83f72a253800/classification/random_forest_training.ipynb)
 - 부스팅 계열 모델
   - 그래디언트 부스팅(GBM)
   - XGBoost
