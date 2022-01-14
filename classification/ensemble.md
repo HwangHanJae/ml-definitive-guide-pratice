@@ -5,7 +5,7 @@
 ### 대표적인 앙상블 모델
 - [랜덤포레스트(RandomForest)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/ff15332588af20b3ff782e6ee1ca83f72a253800/classification/random_forest_training.ipynb)
 - 부스팅 계열 모델
-  - GBM(Gradient Boosting Machine)
+  - [GBM(Gradient Boosting Machine)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/b49bdf9711a603d9d25e6fbaaece7077c5e0c821/classification/gbm_training.ipynb)
   - XGBoost
   - LightGBM
 ### 전통적인 앙상블 학습
