@@ -6,7 +6,7 @@
 - [랜덤포레스트(RandomForest)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/ff15332588af20b3ff782e6ee1ca83f72a253800/classification/random_forest_training.ipynb)
 - 부스팅 계열 모델
   - [GBM(Gradient Boosting Machine)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/b49bdf9711a603d9d25e6fbaaece7077c5e0c821/classification/gbm_training.ipynb)
-  - XGBoost
+  - [XGBoost](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/414cc245fefc5d879050d635862bc11191a4c68e/classification/xgb_training.ipynb)
   - LightGBM
 ### 전통적인 앙상블 학습
 - [보팅(Voting)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/97270c41b1677b949f732d50d6323e1eeb82fd7e/classification/voting_learning.ipynb)
