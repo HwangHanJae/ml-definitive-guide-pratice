@@ -15,4 +15,4 @@
 - 서포트 벡터 머신(Surpport Vector Machine) : 개별 클래스 간의 최대 분류 마진을 효과적으로 찾아줌
 - 최소 근접(Nearest Neighbor) 알고리즘 : 근접 거리를 기준
 - 신경망(Neural Network) : 심층 연결 기반
-- [앙상블(Ensemble)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/df37ad95530e7f024fa8093941ac5bd43613b1d4/classification/ensemble.md) : 서로 다른(또는 같은) 머신러닝 알고리즘 결합
+- [앙상블(Ensemble)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/bab5e606fd23a50b308a2129232232d0eff2fa6f/classification/ensemble.md) : 서로 다른(또는 같은) 머신러닝 알고리즘 결합
