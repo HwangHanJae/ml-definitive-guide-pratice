@@ -7,7 +7,7 @@
 - 부스팅 계열 모델
   - [GBM(Gradient Boosting Machine)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/b49bdf9711a603d9d25e6fbaaece7077c5e0c821/classification/gbm_training.ipynb)
   - [XGBoost](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/414cc245fefc5d879050d635862bc11191a4c68e/classification/xgb_training.ipynb)
-  - LightGBM
+  - [LightGBM](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/637fd64817e3f315137c71461d3816b288ea84aa/classification/lightgbm_training.ipynb)
 ### 전통적인 앙상블 학습
 - [보팅(Voting)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/97270c41b1677b949f732d50d6323e1eeb82fd7e/classification/voting_learning.ipynb)
   - 여러개의 서로 다른 모델이 투표를 통해 최종 예측을 결정
