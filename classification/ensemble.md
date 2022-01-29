@@ -15,5 +15,5 @@
   - 여러개의 서로 같은 유형의 모델이 결합하지만 데이터 샘플링을 서로 다르게 가져가면서 보팅을 수행
 - 부스팅(Boosting)
   - 약한 모델을 결합하여 강한 모델을 만들어 예측하는것
-- 스태킹(Stacking)
+- [스태킹(Stacking)](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/main/classification/stacking_learning.ipynb)
   - 여러가지 모델의 예측 결과값을 다시 학습데티어로 만들어 다른 모델(메타모델)로 재학습시켜 예측
