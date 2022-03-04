@@ -45,6 +45,6 @@ EX)
 
 
 ## 대표적인 차원축소 알고리즘
-- [PCA]()
+- [PCA](https://github.com/HwangHanJae/ml-definitive-guide-pratice/blob/main/dimension_reduction/principal_component_analysis.ipynb)
 - [SVD]()
 - [NMF]()
